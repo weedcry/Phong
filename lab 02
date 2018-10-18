@@ -1,6 +1,9 @@
 #include <iostream>
-ussing namespace std;
+using namespace std;
 int main()
 {
-cout<<"
+cout<<"*** * * *** *  * *** ";
+cout<<"\n*** *** * * * ** * ** ";
+cout<<"\n*   * * *** *  * **** ";
+return 0;
 }
