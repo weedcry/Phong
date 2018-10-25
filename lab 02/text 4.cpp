@@ -14,7 +14,7 @@ typedef struct phanso phanso;
 
 void input(phanso &ps)
 {
-	cout<<"\nNhap vao tu mau 1, toan tu và tu mau 2: ";
+	cout<<"\nNhap vao tu mau 1, toan tu vÃ  tu mau 2: ";
 	cin>>ps.tu1>>ps.mau1>>ps.toantu>>ps.tu2>>ps.mau2;
 	
 }
